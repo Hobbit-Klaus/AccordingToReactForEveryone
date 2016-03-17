@@ -1,0 +1,29 @@
+{
+  "name": "accrodingToReactForEveryone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hobbit-Klaus/AccordingToReactForEveryone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hobbit-Klaus/AccordingToReactForEveryone/issues"
+  },
+  "homepage": "https://github.com/Hobbit-Klaus/AccordingToReactForEveryone#readme",
+  "devDependencies": {
+    "babel-core": "^5.8.*",
+    "babel-loader": "^5.3.*",
+    "webpack": "^1.12.*",
+    "webpack-dev-server": "^1.10.*"
+  },
+  "dependencies": {
+    "react": "^0.14.*"
+  }
+}
